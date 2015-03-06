@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<p>Creating a JavaScript Object.</p>
+
+	<p id="demo1"></p>
+	<p id="demo2"></p>
+	<p id="demo3"></p>
+
+	<script>
+		var startTime;
+
+			function callfunction1() { // you have hold he button for greater then or equal 2 second } 
+			function callfunction2() { // you have hold the button less then 2 second } 
+
+			function buttonDownEvent() { 
+			  var Time = new Date();
+			  startTime = Time.getTime();
+			}
+
+			function buttonUpEvent() { 
+			  if(new Date().getTime() - startTime < 2000)
+			    callfunction2()
+			  else
+			    callfunction1()
+			}
+
+			$('.button').live("mousedown",function()
+			{ 
+			  buttonDownEvent();
+			});
+
+			$('.button').live("mouseup",function()
+			{ 
+			  buttonUpEvent();
+			});
+			
+			document.getElementById("teksti").innerHTML = Time;
+	</script>
+
+	<h1 id="teksti"><h1>
+
+	<button type="button" onclick="callfunction2()">Klikkaa Minua!</button>
+
+</body>
+</html>
+
+

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Web Page</h1>
+
+<p id="eka">I am a paragraph.</p>
+<div id="toka">I am a div.</div>
+
+<p>
+<button type="button" onclick="testaa()">Try it</button>
+</p>
+
+<script>
+function testaa() {
+    document.getElementById("eka").innerHTML = "Hello Dolly.";
+    document.getElementById("toka").innerHTML = "How are you?";
+}
+</script>
+
+<p>When you click on "Try it", the two elements will change.</p>
+
+</body>
+</html>

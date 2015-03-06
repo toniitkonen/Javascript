@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"animalArray"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"line-height"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"j",
+				"consolis-jumbo"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"c",
+				"consolis-jumbo"
+			],
+			[
+				"p",
+				"progress"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kirijaki/TONI_SASS/toni_sass/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/kirijaki/TONI_SASS/toni_sass/scss/components/_labels.scss",
+		"/Users/kirijaki/Library/Mobile Documents/com~apple~CloudDocs/Asiakkaat/Profos/2014 Joulukortti/Profos-Joulukortti2014.html",
+		"/Users/kirijaki/bower_components/bootstrap/bower.json",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.5/bootstrap/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Masonry-demo/specs/img.html",
+		"/Users/kirijaki/Code/bootstrap/bower_components/e21-2014/css/carousel.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/BF v1.1/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/css/starter-template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v5/yritys-toimialat.html",
+		"/Users/kirijaki/Code/bootstrap/bower_components/e21-2014/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.5/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/E21/index.html",
+		"/Users/kirijaki/Code/bootstrap/bower_components/e21-2014/css/cover.css",
+		"/Users/kirijaki/Code/bootstrap/bower_components/e21-2014/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-kalusteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-betoni.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-tuotesorttaus.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-betonitehdas.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-konserni.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-kiviainekset.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-kierratys.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-murskaus.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-porraselementit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-julkisivuelementit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-kaivot-putket.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-infraelementit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-paalut.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-elpo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-harkot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-vastuu.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-historia.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-arvot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-avainluvut.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ymparisto-bastukarr.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ymparisto-inkoo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ymparisto-lumo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-kierratys.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-julkisivuelementit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-kaivot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-infra.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-paalut.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-elpo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet2.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet3.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-kiviainekset.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-betonit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-murskaus.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-harkot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/kauppa-myytavat-kiinteistot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/kauppa-tilinavaus.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/kauppa-tarjouspyyntolomakkeet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/kauppa-toimitusehdot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/kauppa-verkkolaskutus.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.4/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ostoskori.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ymparisto.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-toimialat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yritys-suomi.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/css/bootstrap.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/ajankohtaista.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-betonilaatat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-betonikivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-betoniporraskivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-graniittibetonireunakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-istutusastiat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-kiviainekset.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-liimattavat-betonireunakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-luonnonkivimuurit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-luonnonkivipaallysteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-luonnonkiviportaat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-luonnonkiviverhoukset.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-muurikivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-nurmikon-betonireunalistat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-oheistuotteet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-tukimuurit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-upotettavat-betonireunakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-vesikourut.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-graniittireunakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-porraselementit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/index-anim.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet4.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet5.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet6.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-maisematuotteet7.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-ideakuvasto.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-laskurit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-hinnastot.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-palvelut.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-louhikivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-louhikivet-kuva.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-louhikivet-punamusta.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-kartanokivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-kartanolaatat.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-linnakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-luostarikivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-klassikkokivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet-betonikivet-louhikivet-kuvagrid.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-pihakivet.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/tuotteet-maisematuotteet-ohjekortit.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Rudus web2014 v6/yhteystiedot-betonitehdas-tuusula.html",
+		"/Users/kirijaki/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.4/bootstrap/css/template.css",
+		"/Users/kirijaki/Code/bowertest/bower_components/foundation/css/normalize.css",
+		"/Users/kirijaki/Code/bowertest/bower_components/foundation/css/foundation.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/BF v1.1/bootstrap/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.4/bootstrap/css/bootstrap.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/BF v1.1/bootstrap/css/bootstrap.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/BF v1/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/css/bootstrap.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/referensseja-konseptisuunnittelu.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/referensseja-palvelutalo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/referensseja-kerrostalo.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/ajankohtaista.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/palvelumme.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.3/bootstrap/referensseja.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.2/bootstrap/index.html",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.2/bootstrap/css/template.css",
+		"/Users/kirijaki/Google Drive/Asiakkaat e21/Devel/Procofin v1.2/bootstrap/referensseja-kerrostalo.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"orbit-container .orbit-prev, .orbit-container .orbit-next",
+			"orbit",
+			"rounded",
+			"lightbox",
+			"orbit",
+			"example-orbit",
+			"jumbotron-white2",
+			"navbar-nav",
+			"footer",
+			"jaottele",
+			"jaotte",
+			"h2",
+			"pic-custom2",
+			"h1-titl",
+			"h5-title",
+			"h2-title",
+			"h2-product",
+			"maisematuotteet-kuvabox",
+			"h2-title",
+			"jumbotron-mainheader",
+			"h1-title",
+			"h1",
+			"transition",
+			"padding-top",
+			"align center",
+			"align",
+			"center",
+			"toimialat",
+			"suunnittele",
+			"pic-icons",
+			"banner",
+			"plus",
+			"3",
+			"   <div class=\"admin-right\">\n        Kirjautunut käyttäjä:<br>\n        Matti Meikäläinen\n      </div> ",
+			"info",
+			"border",
+			"navbar",
+			"/*",
+			"nav",
+			"nav li",
+			"navbar-default",
+			"font",
+			"h1",
+			"collapse",
+			"navbar-nav",
+			"navbar-nav solid",
+			"navbar-nav",
+			"collapse",
+			"h1",
+			"background-image",
+			"slider-range-min",
+			"label",
+			"#",
+			"slider-range-min",
+			"slider",
+			"span",
+			"open",
+			"      <footer>\n        <br>\n        <a mailto:\"info@solubs.fi\">info@solubs.fi</a><br>\n        <a href=\"http://www.solubs.fi\">www.solubs.fi</a><br>\n          \n      </footer>\n",
+			"Management",
+			"btn-group",
+			"nav active",
+			"active",
+			"h1",
+			"title",
+			"row",
+			"container",
+			"webkit-transition",
+			"main",
+			"font-family",
+			"font-familu",
+			"font-family",
+			"font",
+			"h4",
+			"navbar-header",
+			"fullimg",
+			"expander",
+			"element",
+			"element-style",
+			"758",
+			"element",
+			"element-style",
+			"box-sizing: border-box;",
+			"webkit-box-sizing",
+			"webkit box sizing",
+			"main",
+			"row",
+			"h4",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}

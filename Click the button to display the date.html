@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the date.</p>
+
+<button onmouseover="displayDate()" onmouseleave="displayDate2()">The time is?</button>
+
+<script>
+function displayDate() {
+    document.getElementById("demo").innerHTML = Date();
+}
+
+function displayDate2() {
+    document.getElementById("demo2").innerHTML = Date();
+}
+
+
+</script>
+
+<p id="demo"></p>
+<h1 id="demo2"></h1>
+
+</body>
+</html> 
